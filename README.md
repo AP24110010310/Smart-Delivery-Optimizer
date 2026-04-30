@@ -1,4 +1,4 @@
-# 🚚 Smart Delivery Optimizer Using Algorithms in C
+# 🚚 Smart Delivery Optimizer 
 
 ## 📌 Project Overview
 Smart Delivery Optimizer is a C-based application that simulates a real-world delivery management system. It demonstrates how fundamental algorithms can be applied to optimize logistics operations such as order prioritization, delivery scheduling, package selection, and route optimization.
